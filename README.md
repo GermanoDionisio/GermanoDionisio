@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+perfil+de+Germano+Dionisio!+%F0%9F%93%A2;Desenvolvedor+Full-Stack+%7C+UniCeub+Bras%C3%ADlia;Game+Dev+%7C+Web+%7C+Backend+%7C+Sistemas;Vamos+construir+projetos+incr%C3%ADveis+juntos!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+perfil+de+Germano+Dionisio!+%F0%9F%93%A2;Estagi%C3%A1rio+Defensoria+P%C3%BAblica+DF+%7C+Easjur;Front-end+%26+Desenvolvedor+Full-Stack;Game+Dev+%7C+Web+%7C+Backend+%7C+Sistemas;UniCeub+Bras%C3%ADlia+-+4%C2%BA+Semestre;Vamos+construir+projetos+incr%C3%ADveis+juntos!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -17,11 +17,12 @@
 ## 👨‍💻 Sobre Mim
 
 **Germano Dionisio**  
+*Estagiário Defensoria Pública DF | Easjur*  
 *4º Semestre - Ciências da Computação*  
 **UniCeub | Brasília, Brasil**  
 <br>
 
-Desenvolvedor apaixonado por **Game Development**, **Sistemas** e **Web Moderno**.
+**Front-end & Desenvolvedor Full-Stack** apaixonado por **Game Development**, **Sistemas** e **Web Moderno**.
 
 ---
 
