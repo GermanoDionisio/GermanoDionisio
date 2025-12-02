@@ -3,11 +3,12 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/germanodsneto">
-    <img src="https://img.shields.io/github/followers/germanodsneto?label=followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="mailto:germano.dsneto@gmail.com">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:germano.dsneto@gmail.com?subject=Olá%20Germano!%20Vi%20seu%20perfil%20no%20GitHub&body=Olá%20Germano,%0D%0A%0D%0AAmei%20seu%20perfil!%20Gostaria%20de%20falar%20sobre...">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/seuusuario">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -20,7 +21,7 @@
 **UniCeub | Brasília, Brasil**  
 <br>
 
-Desenvolvedor apaixonado por **Game Development**, **Sistemas** e **Web Moderno**. Atualmente construindo projetos com foco em performance e experiência do usuário.
+Desenvolvedor apaixonado por **Game Development**, **Sistemas** e **Web Moderno**.
 
 ---
 
@@ -46,30 +47,66 @@ Desenvolvedor apaixonado por **Game Development**, **Sistemas** e **Web Moderno*
 
 ---
 
-## ✨ Projetos Destaque
+## 📊 **Linguagens dos Últimos Projetos**
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>🎮 Pac-Man Clone</b><br>
-      Jogo estilo arcade com Pygame<br>
-      <img src="https://via.placeholder.com/200x120/3DDC84/FFFFFF?text=Pac-Man" />
-    </td>
-    <td align="center">
-      <b>🛒 E-commerce GRMN</b><br>
-      Loja moderna HTML/CSS/JS<br>
-      <img src="https://via.placeholder.com/200x120/FF6B6B/FFFFFF?text=E-commerce" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanodsneto&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germanodsneto&show_icons=true&theme=radical"/>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 **Projetos Destaque** 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germanodsneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanodsneto&layout=compact&langs_count=7&theme=radical"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/pacman-game">
+          <b>🎮 Pac-Man Clone</b><br>
+          <img src="https://via.placeholder.com/250x140/3DDC84/FFFFFF?text=🐍+Pygame" width="200"/><br>
+          <small>🟢 Python | Pygame | Game AI</small>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/grmn-store">
+          <b>🛒 GRMN E-commerce</b><br>
+          <img src="https://via.placeholder.com/250x140/FF6B6B/FFFFFF?text=🌐+Web" width="200"/><br>
+          <small>🔥 HTML | CSS | JavaScript | Responsive</small>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/chess-game-c">
+          <b>♟️ Chess Engine</b><br>
+          <img src="https://via.placeholder.com/250x140/8B4513/FFFFFF?text=⚙️+C" width="200"/><br>
+          <small>💪 C | Algoritmos | Sistemas</small>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/java-rest-api">
+          <b>☕ REST API E-commerce</b><br>
+          <img src="https://via.placeholder.com/250x140/ED8B00/FFFFFF?text=☕+Java" width="200"/><br>
+          <small>⚡ Java | Backend | RESTful</small>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/scientific-calculator">
+          <b>🧮 Calculadora Científica</b><br>
+          <img src="https://via.placeholder.com/250x140/4169E1/FFFFFF?text=📱+UI" width="200"/><br>
+          <small>🎨 C | UI/UX | Matemática</small>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/germanodsneto/mini-shell">
+          <b>🐚 Mini Shell</b><br>
+          <img src="https://via.placeholder.com/250x140/000000/00FF00?text=💻+Terminal" width="200"/><br>
+          <small>🔧 C | Linux | Sistemas</small>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -81,8 +118,8 @@ Desenvolvedor apaixonado por **Game Development**, **Sistemas** e **Web Moderno*
 ---
 
 <div align="center">
-  <a href="mailto:germano.dsneto@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:germano.dsneto@gmail.com?subject=Olá%20Germano!%20Vi%20seu%20perfil%20no%20GitHub&body=Olá%20Germano,%0D%0A%0D%0AAmei%20seu%20perfil!%20Gostaria%20de%20falar%20sobre..." target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Envie-me%20um%20e-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Clique para enviar email" />
   </a>
 </div>
 
