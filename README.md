@@ -9,9 +9,10 @@
 🎓 **Ciência da Computação — 5º Semestre**  
 🏫 **UniCEUB — Brasília, DF**
 
-💼 Atualmente: DPDF
+💼 Atualmente: **DPDF**
 - Estagiário na **Defensoria Pública do Distrito Federal**
 - Atuação no **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
+- Atuando com Arquitetura de Sistemas, Suporte Técnico e Redes
 
 📌 Experiência:
 - 🏗️ **NOVACAP** — 6 meses de experiência profissional (Suporte técnico e Arquitetura de Sistemas)
@@ -23,8 +24,8 @@
 - 💻 Desenvolvimento **Full-Stack**
 - 🌐 Aplicações **Web Modernas**
 - 🎮 **Game Development**
-- ⚙️ Programação de **Sistemas**
-- 🧠 Lógica, algoritmos e estrutura de dados
+- ⚙️ Arquitetura de **Sistemas** e **Banco de Dados**
+- 🧠 Conhecimento avançado em lógica, algoritmos e estrutura de dados
 
 ---
 
