@@ -9,12 +9,12 @@
 🎓 **Ciência da Computação — 5º Semestre**  
 🏫 **UniCEUB — Brasília, DF**
 
-💼 Atualmente:
+💼 Atualmente: DPDF
 - Estagiário na **Defensoria Pública do Distrito Federal**
-- Atuação no **Laboratório Júnior de Inovação e Tecnologia (Easjur)**
+- Atuação no **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
 
 📌 Experiência:
-- 🏗️ **NOVACAP** — 6 meses de experiência profissional
+- 🏗️ **NOVACAP** — 6 meses de experiência profissional (Suporte técnico e Arquitetura de Sistemas)
 
 ---
 
