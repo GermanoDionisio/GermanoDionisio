@@ -1,59 +1,245 @@
+````markdown
 <div align="center">
-  <img height="140px" src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+
+# 👋 Olá, eu sou Germano Dionisio
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&lines=Bem+Vindo+ao+Meu+Perfil+do+GitHub;Ciência+da+Computação+-+5%2F8+-+UniCEUB+Taguatinga;Estudante+-+Estagiário+-+Gamer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=240&section=header&text=GERMANO%20DIONISIO&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
+
+---
+
+# 🚀 Sobre mim
+
+<table>
+<tr>
+<td width="55%">
+
+## 🌍 Sobre mim
+
+- 🎓 **Ciência da Computação — 5º Semestre (5/8)**
+- 🏛️ Estagiário na **Defensoria Pública do Distrito Federal**
+- 💻 Laboratório Júnior de Inovação e Tecnologia
+- 🏢 Ex-estagiário NOVACAP
+- 🌎 Brasília - DF
+- 🎮 Gamer e apaixonado por Desenvolvimento de Jogos
+- 🚀 Desenvolvedor Full Stack
+- 📚 Sempre aprendendo novas tecnologias
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <br><br>
 
-<img align="right" width="450px" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
-<!--FIM cabeçalho HELLO WORD-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=420&lines=Bem+Vindo+ao+Meu+Perfil+do+GitHub;Welcome+to+My+GitHub+Profile;Willkommen+auf+meinem+GitHub-Profil;Добро+пожаловать+в+мой+профиль+GitHub;Bienvenue+sur+mon+profil+GitHub;Bienvenido+a+mi+perfil+de+GitHub"/>
 
-<!--inicio descrição-->
-## Eai, Dev! Eu sou Germano, bem vindo ao meu perfil :)
+</td>
+</tr>
+</table>
 
-<ul align="left">
-<li>📍Brasília - DF e tenho 25 anos</li>
-<br>
-<li>🚀 Estudante de Ciência da Computação na UniCeub (5/8)</li><br>
-<li>🏛️ Atualmente estagio na Defensoria Pública do DF, no Laboratório Júnior de Inovação e Tecnologia (LJIT)</li><br>
-<li>🖥️ Experiência anterior como suporte técnico na NOVACAP</li><br>
-<li>🎮 Apaixonado por desenvolvimento de jogos e tecnologia</li>
-</ul>
-<br>
-<!--FIM descrição-->
+---
 
-<!--INICIO Tecnologias-->
-<br>
-<h2 align="center">🛠️&ensp; <i>TECNOLÓGICAS</i> &ensp;🛠️</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,c,cpp,mysql,postgres,firebase,docker,git,github,vscode,linux" />
-  </a>
-</p>
-<br><br><br><br><br>
+# 💻 Tech Stack
+
 <div align="center">
-  <img align="left" height="360px" width="330px" alt="quote" src="https://i.pinimg.com/originals/e3/f8/d1/e3f8d1ec363edf1f9e4372198aeeaba2.gif">
-  <a href="https://github.com/germanodsneto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=germanodsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanodsneto&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-<br>
 
-<!--Contatos-->
-<h3 align="center">:phone: <i>CONTATOS</i> :phone:</h3>
-<div align="center">
-<a href="mailto:germano.dsneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/germano-neto-8036283b6/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,c,cpp,mysql,postgres,firebase,docker,git,github,vscode,linux"/>
+
 </div>
 
-<!-- GitHub Streak (informações estáticas) -->
-<h3 align="center">🚀 &nbsp;GitHub Streak</h3>
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  ![Germano's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=germanodsneto&theme=tokyonight&hide_border=true&date_format=%5BY%20j%2C%20Y%5D&ring=00FF88&fire=00F7FF&currStreakNum=FFEB3B&sideNums=00FF88&sideLabels=000000&background=0D1117&stroke=00FF88&ring_alpha=0.5&currStreakLabel=00F7FF&currStreakNum=00FF88&currStreakText=FFFFFF&border=00FF88)
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=germanodsneto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanodsneto&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<!-- GitHub Trophy (informações estáticas) -->
-<h3 align="center">🏆 &nbsp;GitHub Trophy</h3>
+---
+
+# 🔥 GitHub Streak
+
 <div align="center">
-  ![Germano's Trophy](https://github-profile-trophy.vercel.app/?username=germanodsneto&theme=flat&column=4&margin-w=15&margin-h=15)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=germanodsneto&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=germanodsneto&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ O que faço
+
+```text
+💻 Desenvolvimento Full Stack
+
+🌐 Desenvolvimento Web
+
+🎮 Desenvolvimento de Jogos
+
+⚙️ Arquitetura de Sistemas
+
+🤖 Inteligência Artificial
+
+☁️ APIs REST
+
+🗄️ Banco de Dados
+
+🐧 Linux
+
+🚀 Automações
+
+```
+
+---
+
+# 🚀 Tecnologias
+
+<table align="center">
+
+<tr>
+
+<td align="center"><b>Frontend</b></td>
+
+<td align="center"><b>Backend</b></td>
+
+<td align="center"><b>Ferramentas</b></td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+HTML<br>
+CSS<br>
+JavaScript<br>
+TypeScript<br>
+React<br>
+Next.js
+
+</td>
+
+<td align="center">
+
+Python<br>
+Java<br>
+C<br>
+Node.js
+
+</td>
+
+<td align="center">
+
+Git<br>
+GitHub<br>
+Docker<br>
+Linux<br>
+VS Code<br>
+MySQL<br>
+PostgreSQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experiência
+
+## 🏛️ Defensoria Pública do Distrito Federal
+
+- 💻 Desenvolvimento de soluções internas
+- ⚙️ Arquitetura de Sistemas
+- 🌐 Infraestrutura
+- 🖥️ Redes
+- 🔧 Suporte Técnico
+- 🚀 Inovação Tecnológica
+
+---
+
+## 🏢 NOVACAP
+
+- 💻 Desenvolvimento
+- 🖥️ Infraestrutura
+- ⚙️ Arquitetura de Sistemas
+- 🔧 Suporte Técnico
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:germano.dsneto@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/germano-neto-8036283b6/" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👀 Visitantes
+
+<img src="https://komarev.com/ghpvc/?username=germanodsneto&style=for-the-badge&color=00FF88"/>
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/germanodsneto/germanodsneto/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Obrigado+por+visitar+meu+perfil;Thank+you+for+visiting+my+profile;Danke+für+deinen+Besuch+auf+meinem+Profil;Спасибо+за+посещение+моего+профиля;Merci+d'avoir+visité+mon+profil;Gracias+por+visitar+mi+perfil"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=140&section=footer"/>
+
+### ⭐ Transformando ideias em soluções através do código.
+
+</div>
+````
