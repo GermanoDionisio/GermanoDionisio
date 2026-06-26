@@ -1,10 +1,11 @@
+````markdown
 <div align="center">
 
 # 👋 Olá, eu sou Germano Dionisio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer;Game+Developer;Computer+Science+Student;Building+Real+Solutions+with+Code;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&lines=Bem+Vindo+ao+Meu+Perfil+do+GitHub;Ciência+da+Computação+-+5%2F8+-+UniCEUB+Taguatinga;Estudante+-+Estagiário+-+Gamer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=220&section=header&text=Welcome!&fontSize=60&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=240&section=header&text=GERMANO%20DIONISIO&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -12,21 +13,34 @@
 
 # 🚀 Sobre mim
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<table>
+<tr>
+<td width="55%">
 
-🎓 Ciência da Computação — 5º Semestre
+## 🌍 Sobre mim
 
-🏛️ Estagiário na Defensoria Pública do Distrito Federal
+- 🎓 **Ciência da Computação — 5º Semestre (5/8)**
+- 🏛️ Estagiário na **Defensoria Pública do Distrito Federal**
+- 💻 Laboratório Júnior de Inovação e Tecnologia
+- 🏢 Ex-estagiário NOVACAP
+- 🌎 Brasília - DF
+- 🎮 Gamer e apaixonado por Desenvolvimento de Jogos
+- 🚀 Desenvolvedor Full Stack
+- 📚 Sempre aprendendo novas tecnologias
 
-💻 Laboratório Júnior de Inovação e Tecnologia
+</td>
 
-🏢 Ex-estagiário NOVACAP
+<td width="45%" align="center">
 
-🌎 Brasília - DF
+<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎮 Apaixonado por Game Development
+<br><br>
 
-📚 Sempre aprendendo novas tecnologias.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=420&lines=Bem+Vindo+ao+Meu+Perfil+do+GitHub;Welcome+to+My+GitHub+Profile;Willkommen+auf+meinem+GitHub-Profil;Добро+пожаловать+в+мой+профиль+GitHub;Bienvenue+sur+mon+profil+GitHub;Bienvenido+a+mi+perfil+de+GitHub"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,linux,react,nodejs,mysql,postgres,firebase,docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,c,cpp,mysql,postgres,firebase,docker,git,github,vscode,linux"/>
 
 </div>
 
@@ -52,7 +66,7 @@
 
 ---
 
-# 🔥 Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -66,30 +80,32 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=germanodsneto&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=germanodsneto&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# ⚙️ O que faço
+# ⚡ O que faço
 
 ```text
 💻 Desenvolvimento Full Stack
 
-🌐 Aplicações Web
+🌐 Desenvolvimento Web
 
 🎮 Desenvolvimento de Jogos
 
 ⚙️ Arquitetura de Sistemas
 
+🤖 Inteligência Artificial
+
+☁️ APIs REST
+
 🗄️ Banco de Dados
 
-🤖 Automações
-
-☁️ APIs
-
 🐧 Linux
+
+🚀 Automações
 
 ```
 
@@ -98,69 +114,53 @@
 # 🚀 Tecnologias
 
 <table align="center">
+
 <tr>
-<td align="center">
 
-Frontend
+<td align="center"><b>Frontend</b></td>
 
-</td>
+<td align="center"><b>Backend</b></td>
 
-<td align="center">
+<td align="center"><b>Ferramentas</b></td>
 
-Backend
-
-</td>
-
-<td align="center">
-
-Ferramentas
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-HTML
+<td align="center">
 
-CSS
-
-JavaScript
-
-React
-
+HTML<br>
+CSS<br>
+JavaScript<br>
+TypeScript<br>
+React<br>
 Next.js
 
 </td>
 
-<td>
+<td align="center">
 
-Python
-
-Java
-
-C
-
+Python<br>
+Java<br>
+C<br>
 Node.js
 
 </td>
 
-<td>
+<td align="center">
 
-Linux
-
-Git
-
-Docker
-
-VS Code
-
-MySQL
-
+Git<br>
+GitHub<br>
+Docker<br>
+Linux<br>
+VS Code<br>
+MySQL<br>
 PostgreSQL
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -169,22 +169,21 @@ PostgreSQL
 
 ## 🏛️ Defensoria Pública do Distrito Federal
 
-📍 Laboratório Júnior de Inovação e Tecnologia
-
-- Desenvolvimento de soluções internas
-- Arquitetura de Sistemas
-- Redes
-- Infraestrutura
-- Suporte Técnico
-- Inovação
+- 💻 Desenvolvimento de soluções internas
+- ⚙️ Arquitetura de Sistemas
+- 🌐 Infraestrutura
+- 🖥️ Redes
+- 🔧 Suporte Técnico
+- 🚀 Inovação Tecnológica
 
 ---
 
 ## 🏢 NOVACAP
 
-- Arquitetura de Sistemas
-- Suporte Técnico
-- Infraestrutura
+- 💻 Desenvolvimento
+- 🖥️ Infraestrutura
+- ⚙️ Arquitetura de Sistemas
+- 🔧 Suporte Técnico
 
 ---
 
@@ -193,15 +192,15 @@ PostgreSQL
 <div align="center">
 
 <a href="mailto:germano.dsneto@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-<a href="https://linkedin.com/in/SEU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+<a href="https://www.linkedin.com/in/germano-neto-8036283b6/" target="_blank">
 
-<a href="https://instagram.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </div>
@@ -210,9 +209,19 @@ PostgreSQL
 
 <div align="center">
 
-### 👀 Visitantes
+## 👀 Visitantes
 
-<img src="https://komarev.com/ghpvc/?username=germanodsneto&color=00F7FF&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=germanodsneto&style=for-the-badge&color=00FF88"/>
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/germanodsneto/germanodsneto/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -220,18 +229,17 @@ PostgreSQL
 
 <div align="center">
 
-## 🐍 Snake Eating Contributions
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/>
 
-<img src="https://raw.githubusercontent.com/germanodsneto/germanodsneto/output/github-contribution-grid-snake.svg">
+<br><br>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Obrigado+por+visitar+meu+perfil;Thank+you+for+visiting+my+profile;Danke+für+deinen+Besuch+auf+meinem+Profil;Спасибо+за+посещение+моего+профиля;Merci+d'avoir+visité+mon+profil;Gracias+por+visitar+mi+perfil"/>
 
----
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=140&section=footer"/>
 
 ### ⭐ Transformando ideias em soluções através do código.
 
 </div>
+````
