@@ -1,96 +1,237 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Germano+Dionisio;Desenvolvedor+Full-Stack;Game+Dev+%7C+Sistemas+%7C+Web;Defensoria+P%C3%BAblica+do+DF+%7C+Easjur;Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo+%F0%9F%92%BB" />
-</p>
+<div align="center">
+
+# 👋 Olá, eu sou Germano Dionisio
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Developer;Game+Developer;Computer+Science+Student;Building+Real+Solutions+with+Code;Always+Learning+New+Technologies"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=220&section=header&text=Welcome!&fontSize=60&fontColor=ffffff"/>
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+# 🚀 Sobre mim
 
-🎓 **Ciência da Computação — 5º Semestre**  
-🏫 **UniCEUB — Brasília, DF**
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💼 Atualmente: **DPDF**
-- Estagiário na **Defensoria Pública do Distrito Federal**
-- Atuação no **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
-- Atuando com Arquitetura de Sistemas, Suporte Técnico e Redes
+🎓 Ciência da Computação — 5º Semestre
 
-📌 Experiência:
-- 🏗️ **NOVACAP** — 6 meses de experiência profissional (Suporte técnico e Arquitetura de Sistemas)
+🏛️ Estagiário na Defensoria Pública do Distrito Federal
 
----
+💻 Laboratório Júnior de Inovação e Tecnologia
 
-## 🚀 Áreas de Atuação
+🏢 Ex-estagiário NOVACAP
 
-- 💻 Desenvolvimento **Full-Stack**
-- 🌐 Aplicações **Web Modernas**
-- 🎮 **Game Development**
-- ⚙️ Arquitetura de **Sistemas** e **Banco de Dados**
-- 🧠 Conhecimento avançado em lógica, algoritmos e estrutura de dados
+🌎 Brasília - DF
+
+🎮 Apaixonado por Game Development
+
+📚 Sempre aprendendo novas tecnologias.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
 
-### ⚙️ Backend & Sistemas
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,linux,react,nodejs,mysql,postgres,firebase,docker"/>
 
-### 🎮 Game Dev
-<p>
-  <img src="https://img.shields.io/badge/Pygame-FF0000?style=for-the-badge&logo=pygame&logoColor=white"/>
-</p>
-
-### 🧰 Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
+</div>
 
 ---
 
-## 💼 Experiência Profissional
+# 📊 GitHub Analytics
 
-**Defensoria Pública do Distrito Federal**  
-📍 Laboratório Júnior de Inovação e Tecnologia (Easjur)  
-- Desenvolvimento e suporte a soluções tecnológicas  
-- Participação em projetos internos e inovação digital  
+<div align="center">
 
-**NOVACAP (Companhia Urbanizadora da Nova Capital)**  
-📅 6 meses  
-- Experiência prática em ambiente corporativo  
-- Contato com processos técnicos e organizacionais  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=germanodsneto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanodsneto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Contato
+# 🔥 Streak
 
-<p align="center">
-  <a href="mailto:germano.dsneto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/seuusuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=germanodsneto&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=germanodsneto&color=3DDC84" />
-</p>
+# 🏆 GitHub Trophy
 
-<p align="center">
-  <b>“Transformando ideias em soluções através do código.”</b>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=germanodsneto&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚙️ O que faço
+
+```text
+💻 Desenvolvimento Full Stack
+
+🌐 Aplicações Web
+
+🎮 Desenvolvimento de Jogos
+
+⚙️ Arquitetura de Sistemas
+
+🗄️ Banco de Dados
+
+🤖 Automações
+
+☁️ APIs
+
+🐧 Linux
+
+```
+
+---
+
+# 🚀 Tecnologias
+
+<table align="center">
+<tr>
+<td align="center">
+
+Frontend
+
+</td>
+
+<td align="center">
+
+Backend
+
+</td>
+
+<td align="center">
+
+Ferramentas
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+Next.js
+
+</td>
+
+<td>
+
+Python
+
+Java
+
+C
+
+Node.js
+
+</td>
+
+<td>
+
+Linux
+
+Git
+
+Docker
+
+VS Code
+
+MySQL
+
+PostgreSQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experiência
+
+## 🏛️ Defensoria Pública do Distrito Federal
+
+📍 Laboratório Júnior de Inovação e Tecnologia
+
+- Desenvolvimento de soluções internas
+- Arquitetura de Sistemas
+- Redes
+- Infraestrutura
+- Suporte Técnico
+- Inovação
+
+---
+
+## 🏢 NOVACAP
+
+- Arquitetura de Sistemas
+- Suporte Técnico
+- Infraestrutura
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:germano.dsneto@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://instagram.com/SEU-USUARIO">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitantes
+
+<img src="https://komarev.com/ghpvc/?username=germanodsneto&color=00F7FF&style=for-the-badge">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Snake Eating Contributions
+
+<img src="https://raw.githubusercontent.com/germanodsneto/germanodsneto/output/github-contribution-grid-snake.svg">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00FF88&height=140&section=footer"/>
+
+### ⭐ Transformando ideias em soluções através do código.
+
+</div>
