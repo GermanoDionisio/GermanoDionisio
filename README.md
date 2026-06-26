@@ -1,126 +1,247 @@
-```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3DDC84&center=true&vCenter=true&width=1000&lines=Germano+Dionisio;Desenvolvedor+Full-Stack;Game+Dev+%7C+Sistemas+%7C+Web;Defensoria+P%C3%BAblica+do+DF+%7C+Easjur;Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo+%F0%9F%92%BB" />
+# 👋 Olá, eu sou Germano Dionisio
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;Game+Developer;Computer+Science+Student;Sempre+aprendendo+novas+tecnologias!" />
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
+
+<br><br>
+
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 💻 Sobre Mim
 
-🎓 **Ciência da Computação — 5º Semestre**
+🎓 **Graduando em Ciência da Computação (5º Semestre)**  
+🏛️ **UniCEUB - Centro Universitário de Brasília**
 
-🏫 **UniCEUB — Brasília, DF**
+🚀 Atualmente atuo como **Estagiário** na
 
-## 💼 Atualmente: **DPDF**
+**Defensoria Pública do Distrito Federal**
 
-- Estagiário na **Defensoria Pública do Distrito Federal**
-- Atuação no **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
-- Atuando com Arquitetura de Sistemas, Suporte Técnico e Redes
+📍 **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
 
-### 📌 Experiência
+---
 
-- 🏗️ **NOVACAP**
-  - 6 meses de experiência profissional
-  - Suporte Técnico
-  - Arquitetura de Sistemas
+## 💼 Experiência
+
+### 💙 Defensoria Pública do Distrito Federal
+
+**Laboratório Júnior de Inovação e Tecnologia (LJIT)**
+
+- Desenvolvimento de soluções tecnológicas
+- Desenvolvimento Full Stack
+- Automações
+- Sistemas Web
+- Banco de Dados
+- Inovação Tecnológica
+
+---
+
+### 🏢 NovaCap
+
+**Suporte Técnico**
+
+📅 Março de 2025 — Agosto de 2025
+
+- Atendimento aos usuários
+- Infraestrutura
+- Redes
+- Manutenção de computadores
+- Sistemas Operacionais
+- Suporte Corporativo
 
 ---
 
 # 🚀 Áreas de Atuação
 
-- 💻 Desenvolvimento **Full-Stack**
-- 🌐 Aplicações **Web Modernas**
-- 🎮 **Game Development**
-- ⚙️ Arquitetura de Sistemas
-- 🗄️ Banco de Dados
-- 🧠 Lógica, Algoritmos e Estruturas de Dados
+<div align="center">
+
+| 💻 |
+|-----|
+| Full Stack Developer |
+| Game Developer |
+| Desenvolvimento Web |
+| Banco de Dados |
+| APIs REST |
+| Automação |
+| Desenvolvimento Desktop |
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Conhecimentos
 
-## 🌐 Frontend
+## 👨‍💻 Linguagens
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<p align="center">
 
-## ⚙️ Backend & Sistemas
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,php,kotlin,dart"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-## 🎮 Game Dev
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pygame-FF0000?style=for-the-badge&logo=pygame&logoColor=white"/>
-</p>
-
-## 🧰 Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 💼 Experiência Profissional
+## 🌐 Front-end
 
-## 🏛️ Defensoria Pública do Distrito Federal
+<p align="center">
 
-📍 Laboratório Júnior de Inovação e Tecnologia (Easjur)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite"/>
 
-- Desenvolvimento e suporte a soluções tecnológicas
-- Participação em projetos internos
-- Inovação digital
+</p>
 
 ---
 
-## 🏢 NOVACAP
+## ⚙️ Back-end
 
-📅 6 meses
+<p align="center">
 
-- Experiência prática em ambiente corporativo
-- Contato com processos técnicos e organizacionais
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,php"/>
+
+</p>
+
+---
+
+## 🗄️ Banco de Dados
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vercel"/>
+
+</p>
+
+---
+
+## 🛠 Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,figma,postman,blender,unity,unreal"/>
+
+</p>
+
+---
+
+# 🎮 Desenvolvimento de Jogos
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender"/>
+
+</p>
+
+✔ Unity
+
+✔ Unreal Engine
+
+✔ Blender
+
+✔ Programação de Jogos
+
+✔ Física
+
+✔ Inteligência Artificial
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Tecnologias que gosto de trabalhar
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+
+</div>
+
+- Desenvolvimento Web
+- APIs REST
+- Banco de Dados
+- Inteligência Artificial
+- Automações
+- Desenvolvimento de Jogos
+- Cloud Computing
+- Sistemas Corporativos
+
+---
+
+# 📚 Atualmente Estudando
+
+- Inteligência Artificial
+- Machine Learning
+- Arquitetura de Software
+- Microsserviços
+- Docker
+- Kubernetes
+- Engenharia de Software
+- Segurança da Informação
 
 ---
 
 # 📫 Contato
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:germano.dsneto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-<a href="https://instagram.com/seuusuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=germanodsneto&color=3DDC84"/>
+## 🚀 "A tecnologia move o mundo."
 
-</p>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650">
 
----
+### ⭐ Obrigado pela visita!
 
-<p align="center">
-
-<b>"Transformando ideias em soluções através do código."</b>
-
-</p>
-```
+</div>
