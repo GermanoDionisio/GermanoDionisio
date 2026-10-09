@@ -1,247 +1,164 @@
+<!-- ===================== HEADER ANIMADO ===================== -->
 <div align="center">
 
-# 👋 Olá, eu sou Germano Dionisio
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=230&section=header&text=Germano%20Dionisio&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;Game+Developer;Computer+Science+Student;Sempre+aprendendo+novas+tecnologias!" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=60&lines=Full+Stack+Developer;Desenvolvimento+Web+%26+APIs+REST;Automa%C3%A7%C3%A3o+%26+Banco+de+Dados;Inova%C3%A7%C3%A3o+e+Tecnologia+no+Setor+P%C3%BAblico;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Status-Estagi%C3%A1rio%20%40%20DPDF-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/UniCEUB-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-8957E5?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Bras%C3%ADlia-DF-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
-# 💻 Sobre Mim
+## 💻 Sobre Mim
 
-🎓 **Graduando em Ciência da Computação (5º Semestre)**  
-🏛️ **UniCEUB - Centro Universitário de Brasília**
+<img align="right" width="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" />
 
-🚀 Atualmente atuo como **Estagiário** na
+- 🎓 Graduando em **Ciência da Computação** (6º semestre) — **UniCEUB**
+- 🚀 Estagiário na **Defensoria Pública do Distrito Federal**
+- 🧪 Atuando no **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
+- 🌱 Focado em **desenvolvimento Full Stack, automação e arquitetura de software**
+- ⚡ Curto transformar processos manuais em soluções digitais eficientes
 
-**Defensoria Pública do Distrito Federal**
-
-📍 **Laboratório Júnior de Inovação e Tecnologia (LJIT)**
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
 ## 💼 Experiência
 
 ### 💙 Defensoria Pública do Distrito Federal
+**Laboratório Júnior de Inovação e Tecnologia (LJIT)** · *Estagiário — Atual*
 
-**Laboratório Júnior de Inovação e Tecnologia (LJIT)**
-
-- Desenvolvimento de soluções tecnológicas
-- Desenvolvimento Full Stack
-- Automações
-- Sistemas Web
-- Banco de Dados
-- Inovação Tecnológica
-
----
+| Área | Atuação |
+|------|---------|
+| 🧩 Full Stack | Desenvolvimento de sistemas web completos |
+| ⚙️ Automação | Automação de processos internos |
+| 🗄️ Dados | Modelagem e manutenção de bancos de dados |
+| 💡 Inovação | Soluções tecnológicas para o setor público |
 
 ### 🏢 NovaCap
+**Suporte Técnico** · *Mar/2025 — Ago/2025*
 
-**Suporte Técnico**
+| Área | Atuação |
+|------|---------|
+| 🎧 Atendimento | Suporte aos usuários e suporte corporativo |
+| 🌐 Infraestrutura | Redes e infraestrutura de TI |
+| 🖥️ Hardware | Manutenção de computadores |
+| 🐧 Sistemas | Instalação e configuração de sistemas operacionais |
 
-📅 Março de 2025 — Agosto de 2025
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
-- Atendimento aos usuários
-- Infraestrutura
-- Redes
-- Manutenção de computadores
-- Sistemas Operacionais
-- Suporte Corporativo
-
----
-
-# 🚀 Áreas de Atuação
+## 🚀 Áreas de Atuação
 
 <div align="center">
 
-| 💻 |
-|-----|
-| Full Stack Developer |
-| Game Developer |
-| Desenvolvimento Web |
-| Banco de Dados |
-| APIs REST |
-| Automação |
-| Desenvolvimento Desktop |
+![Full Stack](https://img.shields.io/badge/Full%20Stack-1F6FEB?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Web](https://img.shields.io/badge/Desenvolvimento%20Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-8957E5?style=for-the-badge&logo=fastapi&logoColor=white)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=githubactions&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop-8957E5?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
-# 🧠 Conhecimentos
-
-## 👨‍💻 Linguagens
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,php,kotlin,dart"/>
-
-</p>
-
----
-
-## 🌐 Front-end
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite"/>
-
-</p>
-
----
-
-## ⚙️ Back-end
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,php"/>
-
-</p>
-
----
-
-## 🗄️ Banco de Dados
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite"/>
-
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vercel"/>
-
-</p>
-
----
-
-## 🛠 Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,figma,postman,blender,unity,unreal"/>
-
-</p>
-
----
-
-# 🎮 Desenvolvimento de Jogos
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender"/>
-
-</p>
-
-✔ Unity
-
-✔ Unreal Engine
-
-✔ Blender
-
-✔ Programação de Jogos
-
-✔ Física
-
-✔ Inteligência Artificial
-
----
-
-# 📊 GitHub Stats
+## 🧠 Stack Tecnológica
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 👨‍💻 Linguagens
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,php,kotlin,dart&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🌐 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,bootstrap,vite&theme=dark" />
+
+### ⚙️ Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask&theme=dark" />
+
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,githubactions,vercel&theme=dark" />
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,figma,postman&theme=dark" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
-# 🔥 GitHub Streak
+## 🌎 O que gosto de construir
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🌐 Desenvolvimento Web
+- 🔗 APIs REST
+- 🗄️ Banco de Dados
+- 🤖 Inteligência Artificial
+
+</td>
+<td width="50%" valign="top">
+
+- ⚙️ Automações
+- ☁️ Cloud Computing
+- 🏛️ Sistemas Corporativos
+- 💡 Soluções para o setor público
+
+</td>
+</tr>
+</table>
+
+## 📚 Atualmente Estudando
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-1F6FEB?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-8957E5?style=flat-square&logo=scikitlearn&logoColor=white)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Software-0D1117?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Microsserviços](https://img.shields.io/badge/Microsservi%C3%A7os-1F6FEB?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8957E5?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=white)
+![Eng. Software](https://img.shields.io/badge/Engenharia%20de%20Software-1F6FEB?style=flat-square&logo=git&logoColor=white)
+![Segurança](https://img.shields.io/badge/Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-8957E5?style=flat-square&logo=letsencrypt&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" />
 
-# 📈 Contribuições
+## 📫 Vamos nos conectar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
-
-# 🌎 Tecnologias que gosto de trabalhar
-
+<!-- ===================== FOOTER ANIMADO ===================== -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+<br>
 
-</div>
+### 🚀 *"A tecnologia move o mundo."*
 
-- Desenvolvimento Web
-- APIs REST
-- Banco de Dados
-- Inteligência Artificial
-- Automações
-- Desenvolvimento de Jogos
-- Cloud Computing
-- Sistemas Corporativos
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=8957E5&center=true&vCenter=true&width=500&lines=%E2%AD%90+Obrigado+pela+visita!;Vamos+construir+algo+juntos%3F;Bora+codar+%F0%9F%92%BB" alt="Footer Typing" />
 
----
-
-# 📚 Atualmente Estudando
-
-- Inteligência Artificial
-- Machine Learning
-- Arquitetura de Software
-- Microsserviços
-- Docker
-- Kubernetes
-- Engenharia de Software
-- Segurança da Informação
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 "A tecnologia move o mundo."
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650">
-
-### ⭐ Obrigado pela visita!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=140&section=footer&animation=twinkling" />
 
 </div>
